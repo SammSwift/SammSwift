@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
  -->
- ![](https://github.com/SamyySwift/SamyySwift/blob/main/img/Samuel%20Okon.png)
+ ![](https://github.com/SammSwift/SammSwift/blob/main/img/my_banner.png)
  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/samyyswift/">
@@ -29,12 +29,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 </h4>
 
----
-
-<div id="headers" align="center">
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350"/> -->
-  <img align = 'center' src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
 
 ### 👨‍💻 **About Me:**
 
