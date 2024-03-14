@@ -1,7 +1,4 @@
-<!-- <div id="headers" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
-</div>
- -->
+
  ![](https://github.com/SammSwift/SammSwift/blob/main/img/my_banner.png)
  
 <div id="badges" align="center">
@@ -14,7 +11,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=flat-square"/>
   </a>
   
-  <a href="https://samyyswift.github.io">
+  <a href="https://https://samswift-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-green?logo=appveyor&logoColor=white&style=flat-square"/>
   </a>
 </div>
